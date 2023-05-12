@@ -6,6 +6,16 @@ This is just an overview about acess control and acess modifiers in cadence in f
 
 in this project we will discuss about different acess modifiers which is used in variables and functions and how are they different from other acess modifiers,each modifier has its own scope in which they can be called or read and modified we will go through them using simple example code
 
+Mainly there are 4 types of acess modifiers we are talking
+which are :
+* pub(set)           reading scope:All Scope                                            writing scope:All Scope
+
+* pub                reading scope:All Scope                                            writing scope:current & inner
+
+* acess(contract)    reading scope:containing contract,current & inner                  writing scope:current & inner
+
+* acess(self)        reading scope:current & inner                                      writing scope:current & inner
+
 ## Getting Started
 
 ### Installing
