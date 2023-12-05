@@ -1,4 +1,4 @@
-# Acess-Control
+# Acess-Modifiers
 
 This is just an overview about acess control and acess modifiers in cadence in flow block chain.this is just and informative program to give simple overview about what are the different acess modifiers used in cadence and what are the advantage and disadvantage of one above another
 
