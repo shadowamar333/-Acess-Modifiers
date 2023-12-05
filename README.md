@@ -35,7 +35,7 @@ deploy the contract and then execute the script
 
 as this is for understanding which are the access modifiers and how each of them work uniqely you can adjust the code your self and check each cases in acess modifiers in case if ther is some doubt emrges feel free to contact on email given below :
 ```
-iamoneofthechoosen1@gmail.com
+amarnath759498@gmail.com
 ```
 
 ## Authors
@@ -43,11 +43,11 @@ iamoneofthechoosen1@gmail.com
 Contributors names and contact info
 
 metacrafter
-DabiIsHere
-Vava
-[@DabiIsHere](iamoneofthechoosen1@gmail.com)
+Shadow
+amarnath
+[@Amar](amarnath759498@gmail.com)
 
 
 ## License
 
-This project is licensed under the [@DabiIsHere] License - see the LICENSE.md file for details
+This project is licensed under the [@amar] License - see the LICENSE.md file for details
